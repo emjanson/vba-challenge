@@ -7,7 +7,7 @@ The code file in this repository is a VBA script comprised of 3 subroutines. One
 *Code sourcing statement*
 -----------------------
 
- I did use a natural language description of the desired script's functions entered into ChatGPT 3.5 to help build the code structure. I did copy and paste pieces of that code in order to be more efficient, but I tailored it to fit all of the desired functions of this paricular project (plus try to add some potential error checking and workarounds). I did not directly copy and paste any of this code from the internet otherwise (e.g., from StackExchange or any other webpage). I did not seek any assistance or use code written by my peers or instructors for this challenge.
+ I did use a natural language description of the desired script's functions entered into ChatGPT 3.5 to help build the code structure. I did copy and paste pieces of that code in order to be more efficient, but I tailored it to fit all of the desired functions of this particular project (plus try to add some potential error checking and workarounds). I did not directly copy and paste any of this code from the internet otherwise (e.g., from StackExchange or any other webpage). I did not seek any assistance or use code written by my peers or instructors for this challenge.
 
 End of code sourcing statement.
 
